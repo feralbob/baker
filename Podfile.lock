@@ -1,0 +1,14 @@
+PODS:
+  - CocoaLumberjack (1.8.0):
+    - CocoaLumberjack/Extensions
+  - CocoaLumberjack/Core (1.8.0)
+  - CocoaLumberjack/Extensions (1.8.0):
+    - CocoaLumberjack/Core
+
+DEPENDENCIES:
+  - CocoaLumberjack
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 6ed94046d2ca7fde03a73b3d01b8cfc56574b314
+
+COCOAPODS: 0.29.0
